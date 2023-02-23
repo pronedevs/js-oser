@@ -1,0 +1,18 @@
+# IDEs
+/.idea/shelf/
+/.idea/workspace.xml
+/.idea/usage.statistics.xml
+/.vscode/*
+!/.vscode/settings.json
+!/.vscode/tasks.json
+!/.vscode/launch.json
+!/.vscode/extensions.json
+
+# Dependencies
+/node_modules/
+
+# Compiled output
+/dist/
+
+# OS
+.DS_Store
