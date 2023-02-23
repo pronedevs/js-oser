@@ -1,0 +1,28 @@
+{
+  "name": "jsoser",
+  "description": "A JavaScript Object SERialization library.",
+  "version": "0.0.1",
+  "main": "dist/index.cjs.js",
+  "module": "dist/index.esm.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pronedevs/jsoser.git"
+  },
+  "keywords": [
+    "javascript",
+    "serialization"
+  ],
+  "author": "Prone Devs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pronedevs/jsoser/issues"
+  },
+  "homepage": "https://github.com/pronedevs/jsoser#readme",
+  "peerDependencies": {
+    "reflect-metadata": "^0.1.13"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
